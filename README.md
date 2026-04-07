@@ -34,8 +34,15 @@ A desktop Java game inspired by the classic Flappy Bird arcade-style experience.
 
 1. Open a terminal and navigate to the project folder:
    ```powershell
-   cd "path\to\FlappyBird"
+   cd "C:\Users\your_username\Documents\FlappyBird"
    ```
-2. Compile the project source files: javac -d bin src\*.java
+2. Compile the project source files:
 
-3. Start the game: java -cp bin Project2Runner
+   ```powershell
+   javac -d bin src\*.java
+   ```
+
+3. Start the game:
+   ```powershell
+   java -cp bin Project2Runner
+   ```
