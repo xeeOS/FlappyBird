@@ -1,0 +1,19 @@
+# Java build output
+/bin/
+/out/
+*.class
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.iml
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
