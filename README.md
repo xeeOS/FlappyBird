@@ -4,7 +4,9 @@ A Flappy Bird game written in Java using Swing and 2D Graphics. Guide the bird t
 
 ## preview
 
-![gameplay](screenshots/preview.png)
+<div align="center">
+  <img src="screenshots/preview.png" alt="gameplay" width="360"/>
+</div>
 
 ## features
 
