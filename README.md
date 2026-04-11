@@ -2,6 +2,10 @@
 
 A Flappy Bird game written in Java using Swing and 2D Graphics. Guide the bird through pipes without crashing.
 
+## preview
+
+![gameplay](screenshots/preview.png)
+
 ## features
 
 | feature                  | description                                     |
