@@ -13,8 +13,8 @@ A Flappy Bird game written in Java using Swing and 2D Graphics.
 | feature                  | description                                     |
 | ------------------------ | ----------------------------------------------- |
 | start screen             | game waits for input before starting            |
-| gravity and flap physics | bird falls naturally, jumps on input            |
-| randomized pipes         | pipe gaps appear at different heights every run |
+| gravity and flap physics | bird falls, jumps on input                      |
+| randomized pipes         | pipe gaps appear at random heights every run |
 | collision detection      | ends the game on pipe or floor contact          |
 | score tracking           | score increments for each pipe pair passed      |
 | restart and exit         | buttons appear on screen after game over        |
