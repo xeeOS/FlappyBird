@@ -60,11 +60,11 @@ FlappyBird/
 │   ├── flappybirdbg.png
 │   └── toppipe.png
 ├── src/
-│   ├── Bird.java               # bird entity
+│   ├── Bird.java               # bird
 │   ├── FlappyBird.java         # game logic and rendering
 │   ├── FlappyBirdRunner.java   # entry point
 │   ├── GameFrame.java          # game window
-│   └── Pipe.java               # pipe entity
+│   └── Pipe.java               # pipes
 └── README.md
 ```
 
