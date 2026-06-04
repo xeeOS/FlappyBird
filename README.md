@@ -72,7 +72,7 @@ FlappyBird/
 
 **FlappyBird.java**
 
-- game loop via a Timer firing 60 times per second
+- game loop via a Timer at 60 times per second
 - handles bird movement, pipe spawning, collision detection, and all rendering
 - implements ActionListener, KeyListener, and MouseListener
 
